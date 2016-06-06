@@ -12,7 +12,10 @@
     "Hakim El Hattab <hakim.elhattab@gmail.com>"
   ],
   "dependencies": {
-    "headjs": "~1.0.3"
+    "headjs": "~1.0.3",
+    "three.js": "threejs#*",
+    "d3": "^3.5.16",
+    "timelinejs": "^2.27.0"
   },
   "repository": {
     "type": "git",

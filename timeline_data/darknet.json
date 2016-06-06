@@ -1,0 +1,61 @@
+{
+    "timeline": {
+        "headline": "Die Entstehung des Internets und des Darknets",
+        "type": "default",
+        "startDate": "1969",
+        "text": "<p>Alles begann mit dem Arpanet.</p>",
+        "asset": {
+            "media": "../img/arpanet.gif",
+            "credit": "",
+            "caption": ""
+        },
+        "date": [{
+                "startDate": "1981",
+                "headline": "Chaos Computer Club",
+                "text": "<p>Schon früh gab es die ersten Internetaktivisten</p>",
+                "asset": {
+                    "media": "../img/ccc.png",
+                    "credit": "",
+                    "caption": ""
+                }
+            }, {
+                "startDate": "1986",
+                "headline": "Hacker Manifesto",
+                "text": "<p>... This is our world now... the world of the electron and the switch, the beauty of the baud.</p> <p>We make use of a service already existing without paying for what could be dirt cheap if it wasnt run by profiteering gluttons, and you call us criminals.</p>",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            }, {
+                "startDate": "1989",
+                "headline": "Das World Wide Web",
+                "text": "<p>Tim Berners-Lee brings the first WWW server online at CERN</p>",
+                "asset": {
+                    "media": "../img/tim.png",
+                    "credit": "",
+                    "caption": ""
+                }
+            }, {
+                "startDate": "1999",
+                "headline": "Napster",
+                "text": "<p>Napster geht online.</p>",
+                "asset": {
+                    "media": "../img/tim.png",
+                    "credit": "",
+                    "caption": ""
+                }
+            }, {
+                "startDate": "2002",
+                "headline": "Tor",
+                "text": "<p>Tor wird veröffentlicht.</p>",
+                "asset": {
+                    "media": "../img/torLogo.png",
+                    "credit": "",
+                    "caption": ""
+                }
+            }
+
+        ]
+    }
+}
